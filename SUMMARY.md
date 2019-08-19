@@ -6,4 +6,4 @@
 
 * [第一章](group1/di-yi-zhang.md)
 * [第二章 流动控制方程](group1/untitled.md)
-
+* [阅读日记](group1/progress.md)
